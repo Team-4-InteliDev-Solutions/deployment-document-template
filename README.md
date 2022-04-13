@@ -67,7 +67,7 @@
 
 ![RE/ACTION poster](./images/ReActionBanner.png)
 
-Short description of the project. RE/ACTION YouTube link.
+A mobile app for a property management company in Ottawa to engage in better and continuous communication with their tenants while allowing them to stay in touch with their community, get rewards, and much more. [Learn more...](https://www.algonquincollege.com/arie/2022/03/smart-tenant/)
 
 ### Built With
 
