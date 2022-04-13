@@ -278,17 +278,17 @@ List of Sprint two features (and known issues, if any).
 
 ## Contact
 
-**Project Lead:** [Stewie Griffin](mailto:username@algonquinlive.com)
+**Project Lead:** [Karim Shaloh](https://www.linkedin.com/in/karim-shaloh)
 
-**Technical Lead:** [Peter Griffin](mailto:liu00415@algonquinlive.com)
+**Technical Lead:** [Eric Shantz](https://www.linkedin.com/in/eric-shantz)
 
-**Design Lead:** [Lois Griffin](mailto:username@algonquinlive.com)
+**Design Lead:** [J-C Castange](https://www.linkedin.com/in/jc-castagne)
 
-**API Developer:** [Meg Griffin](mailto:username@algonquinlive.com)
+**Developer/Designer:** [Evan Liko](https://www.linkedin.com/in/evan-liko)
 
-**UX Researcher:** [Glenn Quagmire](mailto:liu00396@algonquinlive.com)
+**Developer/Designer:** [Sandeep Saini](https://www.linkedin.com/in/sandeepsaini2213)
 
-**UX Designer:** [Brian Griffin](mailto:username@algonquinlive.com)
+**Developer/Designer:** [Mohsen Qaddoura](https://www.linkedin.com/in/mohsen-qaddoura)
 
 <!-- Acknowledgements -->
 
