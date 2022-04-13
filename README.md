@@ -71,20 +71,15 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 #### Major Frameworks
 
 - [Node JS](https://nodejs.org/en/docs/)
-- [pSQL](https://www.postgresql.org/docs/)
 - [React Native](https://reactnative.dev/)
 - [Firebase](https://firebase.google.com/)
-- [Redux](https://redux.js.org/introduction/getting-started)
 
 #### Development Toolkit:
 
 - [VS Code](https://code.visualstudio.com/) (IDE)
-- [Docker](https://www.docker.com/)
 - [DBeaver](https://dbeaver.io/)
 - [Android Studio](https://developer.android.com/studio)
 - [Expo](https://expo.io/)
