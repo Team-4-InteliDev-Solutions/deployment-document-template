@@ -80,7 +80,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 #### Development Toolkit:
 
 - [VS Code](https://code.visualstudio.com/) (IDE)
-- [DBeaver](https://dbeaver.io/)
+- [Xcode](https://developer.apple.com/xcode/)
 - [Android Studio](https://developer.android.com/studio)
 - [Expo](https://expo.io/)
 
@@ -88,16 +88,17 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 - [x] Firebase - created under teamname@gmail.com
 - [x] Expo - created under teamname@gmail.com
-- [x] Netlify - With Web Deployed created under teamname@gmail.com
 
 <!-- Features list -->
 
 ## Features
 
-- [x] Add button
-- [x] One more add button
-- [x] Backend storing value
-- [x] So on...
+- [x] News Feed
+- [x] Create and Comment on Posts
+- [x] Access Resident Portal
+- [x] Self Sign-up
+- [x] Administrative Control
+- [x] Marketplace (phase 3)
 
 <!-- User Research -->
 
