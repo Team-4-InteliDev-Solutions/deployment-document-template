@@ -4,18 +4,19 @@
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 -->
+
 # Smart Tenant Documentation
 
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="">
-    <img src="" alt="Team/Project logo" width="80" height="80">
+    <img src="./images/AppLogo.png" alt="Team/Project logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Team Name</h3>
+  <h3 align="center">InteliDev Solutions</h3>
 
   <p align="center">
-    Add your tagline
+    Inteligent Modern Design and Development
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
@@ -66,7 +67,7 @@
 
 ![RE/ACTION poster]()
 
-Short description of the project. RE/ACTION YouTube link. 
+Short description of the project. RE/ACTION YouTube link.
 
 ### Built With
 
@@ -274,6 +275,7 @@ List of Sprint two features (and known issues, if any).
 - Fourth item
 
 <!-- Contact -->
+
 ## Contact
 
 **Project Lead:** [Stewie Griffin](mailto:username@algonquinlive.com)
@@ -289,6 +291,7 @@ List of Sprint two features (and known issues, if any).
 **UX Designer:** [Brian Griffin](mailto:username@algonquinlive.com)
 
 <!-- Acknowledgements -->
+
 ## Acknowledgements
 
 Show appreciation to everyone who has helped in the project (including Client and Professors). In acknowledgment, recognize and thank everyone who was involved in this Applied Project. With acknowledgment, you can express gratitude to the people or institution whose contributions were valuable to the success of the project.
