@@ -4,7 +4,7 @@
 *** an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 -->
-# Team-name-documentation
+# Smart Tenant Documentation
 
 <!-- PROJECT LOGO -->
 <p align="center">
