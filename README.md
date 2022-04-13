@@ -65,7 +65,7 @@
 
 ## About The Project
 
-![RE/ACTION poster]()
+![RE/ACTION poster](./images/ReActionBanner.png)
 
 Short description of the project. RE/ACTION YouTube link.
 
