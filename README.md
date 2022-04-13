@@ -278,17 +278,17 @@ List of Sprint two features (and known issues, if any).
 
 ## Contact
 
-**Project Lead:** [Karim Shaloh](https://www.linkedin.com/in/karim-shaloh){:target="\_blank"}
+**Project Lead:** [Karim Shaloh](https://www.linkedin.com/in/karim-shaloh)
 
-**Technical Lead:** [Eric Shantz](https://www.linkedin.com/in/eric-shantz){:target="\_blank"}
+**Technical Lead:** [Eric Shantz](https://www.linkedin.com/in/eric-shantz)
 
-**Design Lead:** [J-C Castange](https://www.linkedin.com/in/jc-castagne){:target="\_blank"}
+**Design Lead:** [J-C Castange](https://www.linkedin.com/in/jc-castagne)
 
-**Developer/Designer:** [Evan Liko](https://www.linkedin.com/in/evan-liko){:target="\_blank"}
+**Developer/Designer:** [Evan Liko](https://www.linkedin.com/in/evan-liko)
 
-**Developer/Designer:** [Sandeep Saini](https://www.linkedin.com/in/sandeepsaini2213){:target="\_blank"}
+**Developer/Designer:** [Sandeep Saini](https://www.linkedin.com/in/sandeepsaini2213)
 
-**Developer/Designer:** [Mohsen Qaddoura](https://www.linkedin.com/in/mohsen-qaddoura){:target="\_blank"}
+**Developer/Designer:** [Mohsen Qaddoura](https://www.linkedin.com/in/mohsen-qaddoura)
 
 <!-- Acknowledgements -->
 
