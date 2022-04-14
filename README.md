@@ -180,7 +180,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## High-Level Architecture
 
-![High-Level Architecture]()
+![High-Level Architecture](./images/HIGH%20LEVEL%20AECHITECTURE.png)
 
 Describe in brief about your high-level architecture.
 
