@@ -150,9 +150,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Visual Design
 
-![Visual Design 1]()
-
-![Visual Design 2]()
+[Visual Design 1](https://drive.google.com/file/d/1XHZpsVQp5jiVVM2mRBMDLZ6kojRlJatu/view?usp=sharing)
 
 <!-- Interactive Visual MockUp -->
 
