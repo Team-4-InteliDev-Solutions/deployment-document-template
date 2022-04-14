@@ -136,9 +136,9 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Information Architecture
 
-![Information Architecture]()
+![Information Architecture](./images/InformationArchitecture.png)
 
-- Information Architecture to lay out the structure of Project Name.
+- Information Architecture to lay out the structure of Smart Tenant.
 
 <!-- Paper Prototyep -->
 
