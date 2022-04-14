@@ -144,7 +144,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Paper Prototype & Wireframes
 
-![Paper Prototype](https://drive.google.com/file/d/1w_yV1zaWdK-i-__uwBozJZ9rnA1cKy2R/view?usp=sharing)
+[Paper Prototype & Wireframes](https://drive.google.com/file/d/1w_yV1zaWdK-i-__uwBozJZ9rnA1cKy2R/view?usp=sharing)
 
 <!-- Visual Design -->
 
