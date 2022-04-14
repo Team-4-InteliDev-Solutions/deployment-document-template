@@ -144,13 +144,13 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Paper Prototype & Wireframes
 
-[Paper Prototype & Wireframes](https://drive.google.com/file/d/1w_yV1zaWdK-i-__uwBozJZ9rnA1cKy2R/view?usp=sharing)
+[Paper Prototype & Wireframes](https://www.figma.com/file/kFgphXFidovr14ZwLZw0Wh/PaperPrototype?node-id=29%3A1295)
 
 <!-- Visual Design -->
 
 ## Visual Design
 
-[Visual Design 1](https://drive.google.com/file/d/1XHZpsVQp5jiVVM2mRBMDLZ6kojRlJatu/view?usp=sharing)
+[Visual Design](https://www.figma.com/file/5QLXkPmlKUZTiloi6MrJAe/SmartLiving---WireFrame?node-id=418%3A406)
 
 <!-- Interactive Visual MockUp -->
 
