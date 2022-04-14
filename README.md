@@ -188,7 +188,7 @@ Describe in brief about your high-level architecture.
 
 ## Technical Research
 
-[Technical Research Document]()
+[Technical Research Document](https://docs.google.com/document/d/10oSp3rgkv1LKX3CilwgDttDU9E_3aN66/edit?usp=sharing&ouid=107570230041613540173&rtpof=true&sd=true)
 
 Summary of your technical research and attach the technical research document.
 
