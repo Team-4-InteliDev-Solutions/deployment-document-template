@@ -84,10 +84,10 @@ A mobile app for a property management company in Ottawa to engage in better and
 - [Android Studio](https://developer.android.com/studio)
 - [Expo](https://expo.io/)
 
-#### Accounts made for the teamname@gmail.com under the specified password
+#### Accounts made for the intellidevsolutions@gmail.com under the specified password
 
-- [x] Firebase - created under teamname@gmail.com
-- [x] Expo - created under teamname@gmail.com
+- [x] Firebase - created under intellidevsolutions@gmail.com
+- [x] Expo - created under intellidevsolutions@gmail.com
 
 <!-- Features list -->
 
@@ -104,7 +104,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## User Research
 
-[User Research]()
+[User Research](https://docs.google.com/spreadsheets/d/12Ib9RQPLNKbEPzJYYDii5ptsx94XhZ8DW3rsHYUEAiw/edit?usp=sharing)
 
 - Resarch data from interviews with potential users.
 
@@ -112,7 +112,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Product Research
 
-[Product Research]()
+[Product Research](https://docs.google.com/document/d/1z_7dcd5tzjuniCsOqrAngQjg38-wBn0TIEbjrMQyxrU/edit?usp=sharing)
 
 - Research about the market, our competitors, and brand.
 
@@ -120,17 +120,17 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Personas
 
-[Personas]()
+[Personas](https://drive.google.com/file/d/1eiSTnHX9DgnkK7twdlQNOwr5iieu1F8N/view?usp=sharing)
 
-- Four personas one for admin, two for primary and two for secondary users.
+- Five personas. Two for admin and three for primary user (tenants).
 
 <!-- Usage Scenarios -->
 
 ## Usage Scenarios
 
-[Usage Scenarios]()
+[Usage Scenarios](https://drive.google.com/file/d/1XVkQmBgYXagPbxe7tD4WQS7dQZnjkV-z/view?usp=sharing)
 
-- Five Scenarios one for admin, two for primary user and two for secondary users.
+- Five Scenarios. Two for admin and two for primary user (tenants).
 
 <!-- Information Architecture -->
 
