@@ -43,7 +43,7 @@
 - [Personas](#personas)
 - [Usage Scenarios](#usage-scenarios)
 - [Information Architecture](#information-architecture)
-- [Paper Prototype](#paper-prototype)
+- [Paper Prototype](#paper-prototype-&-wireframes)
 - [Wireframes](#wireframes)
 - [Visual Design](#visual-design)
 - [Usability Testing Documents](#usability-testing-documentation)
@@ -137,7 +137,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ![Information Architecture](./images/InformationArchitecture.png)
 
-- Information Architecture to lay out the structure of Smart Tenant.
+- Information Architecture that lays out the structure of Smart Tenant.
 
 <!-- Paper Prototyep & Wireframes -->
 
