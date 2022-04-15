@@ -41,7 +41,7 @@
 - [User Research](#user-research)
 - [Product Research](#product-research)
 - [Personas](#personas)
-- [Usage Scenarios](#usage-scenario)
+- [Usage Scenarios](#usage-scenarios)
 - [Information Architecture](#information-architecture)
 - [Paper Prototype](#paper-prototype)
 - [Wireframes](#wireframes)
@@ -129,7 +129,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 [Usage Scenarios](https://drive.google.com/file/d/1XVkQmBgYXagPbxe7tD4WQS7dQZnjkV-z/view?usp=sharing)
 
-- Five Scenarios. Two for admin and two for primary user (tenants).
+- Four Scenarios. Two for admin and two for primary user (tenants).
 
 <!-- Information Architecture -->
 
