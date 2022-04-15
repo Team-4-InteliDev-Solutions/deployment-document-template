@@ -26,9 +26,9 @@
     <a href="https://github.com/Team-4-InteliDev-Solutions/smartTenants/issues">Report Bug</a>
     ·
     <a href="https://forms.gle/kQrU3V1w5uybbEL19">Request Feature</a>
-    .
+    ·
     <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L">APP Docs</a>
-    .
+   
   </p>
 </p>
 
