@@ -43,8 +43,8 @@
 - [Personas](#personas)
 - [Usage Scenarios](#usage-scenarios)
 - [Information Architecture](#information-architecture)
-- [Paper Prototype](#paper-prototype-&-wireframes)
-- [Wireframes](#wireframes)
+- [Paper Prototype](#paper-prototype-and-wireframes)
+- [Wireframes](#paper-prototype-and-wireframes)
 - [Visual Design](#visual-design)
 - [Usability Testing Documents](#usability-testing-documentation)
 - [Usability Test Results](#usability-test-results)
@@ -141,7 +141,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 <!-- Paper Prototyep & Wireframes -->
 
-## Paper Prototype & Wireframes
+## Paper Prototype and Wireframes
 
 [Paper Prototype & Wireframes](https://www.figma.com/file/kFgphXFidovr14ZwLZw0Wh/PaperPrototype?node-id=29%3A1295)
 
