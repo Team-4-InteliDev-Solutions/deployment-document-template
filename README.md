@@ -18,18 +18,17 @@
   <p align="center">
     Inteligent Modern Design and Development
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/Team-4-InteliDev-Solutions/smartTenants/issues">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://forms.gle/kQrU3V1w5uybbEL19">Request Feature</a>
     .
-    <a href="">APP Docs</a>
+    <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L">APP Docs</a>
     .
-    <a href="">Dashboard Docs</a>
   </p>
 </p>
 
