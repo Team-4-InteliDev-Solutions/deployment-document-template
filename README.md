@@ -18,7 +18,7 @@
   <p align="center">
     Inteligent Modern Design and Development
     <br />
-    <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L"><strong>Explore the docs »</strong></a>
+    <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L?usp=sharing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
@@ -27,7 +27,7 @@
     ·
     <a href="https://forms.gle/kQrU3V1w5uybbEL19">Request Feature</a>
     ·
-    <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L">APP Docs</a>
+    <a href="https://drive.google.com/drive/folders/1jT5QRN7ePdPOhqojMYwYHIY1I8dzb37L?usp=sharing">APP Docs</a>
    
   </p>
 </p>
@@ -47,8 +47,8 @@
 - [Wireframes](#paper-prototype-and-wireframes)
 - [Visual Design](#visual-design)
 - [Usability Testing Documents](#usability-testing-documentation)
-- [Usability Test Results](#usability-test-results)
 - [Interactive Visual MockUp](#interactive-visual-mockup)
+- [Usability Test Results](#usability-test-results)
 - [Features](#features)
 - [High-Level Architecture](#high-level-architecture)
 - [Technical Research](#technical-research)
@@ -163,7 +163,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Usability Testing Documentation
 
-[Usability Testing Documentation]()
+[Usability Testing Documentation](https://drive.google.com/drive/folders/1MjHp9-wDElr3ci8TIA3tL1reyf44mXCo?usp=sharing)
 
 - Usability Testing Documentation folder contains 'Test Plan' and 'Test Script'
 
@@ -171,7 +171,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Usability Test Results
 
-[Usability Test Results]()
+[Usability Test Results](https://docs.google.com/document/d/1qA-VlqQeSptt_xRMxhHI3tWfYN0wk6qN7ocuzyQDvXQ/edit?usp=sharing)
 
 - Information about the participants and findings.
 
