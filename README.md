@@ -54,7 +54,7 @@
 - [Technical Research](#technical-research)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Running the App](#Running-the-App-on-iOS-Simulator)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
@@ -187,7 +187,7 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ![High-Level Architecture](./images/HIGH%20LEVEL%20AECHITECTURE.png)
 
-Describe in brief about your high-level architecture.
+Describes in brief the application's high-level architecture.
 
 <!-- Technical Research -->
 
