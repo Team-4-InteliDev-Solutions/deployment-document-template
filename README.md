@@ -251,12 +251,16 @@ Download the [Expo Go](https://expo.dev/client) app for [iOS](https://apps.apple
 
 #### Current Screens in Development for Phase 1:
 
+<p>
 <img src="./images/screenshot-1.png" width="200">
 <img src="./images/screenshot-2.png" width="200">
 <img src="./images/screenshot-3.png" width="200">
+</p>
+<p>
 <img src="./images/screenshot-4.png" width="200">
 <img src="./images/screenshot-5.png" width="200">
 <img src="./images/screenshot-6.png" width="200">
+</p>
 
 <!-- ROADMAP -->
 
