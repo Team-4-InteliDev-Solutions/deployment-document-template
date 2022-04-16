@@ -253,6 +253,7 @@ Download the [Expo Go](https://expo.dev/client) app for [iOS](https://apps.apple
 
 <p>
 <img src="./images/screenshot-1.png" width="200">
+
 <img src="./images/screenshot-2.png" width="200">
 <img src="./images/screenshot-3.png" width="200">
 </p>
