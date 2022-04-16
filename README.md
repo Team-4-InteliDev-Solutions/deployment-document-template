@@ -38,6 +38,7 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+- [Features](#features)
 - [User Research](#user-research)
 - [Product Research](#product-research)
 - [Personas](#personas)
@@ -49,7 +50,6 @@
 - [Usability Testing Documents](#usability-testing-documentation)
 - [Interactive Visual MockUp](#interactive-visual-mockup)
 - [Usability Test Results](#usability-test-results)
-- [Features](#features)
 - [High-Level Architecture](#high-level-architecture)
 - [Technical Research](#technical-research)
 - [Getting Started](#getting-started)
