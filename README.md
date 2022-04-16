@@ -245,9 +245,9 @@ You should now be able to interact with our app on your simulated device! Enjoy
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Download the [Expo Go](https://expo.dev/client) app for [iOS](https://apps.apple.com/ca/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_CA&gl=US), and scan the QR Code below to run Smart Tenant on your device.
 
-[Download the App Android APk for Phase 1]()
+![Expo QR Code](./images/expoQR.png)
 
 #### Current Screens in Development for Phase 1:
 
