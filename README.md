@@ -259,10 +259,12 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 List of Sprint two features (and known issues, if any).
 
-- First item
-- Second item
-- Third item
-- Fourth item
+- Phase 1 completed
+- Phase 2
+  - from IA
+- Phase 3
+  - from IA
+- Additional requested features
 
 <!-- Contact -->
 
@@ -284,4 +286,4 @@ List of Sprint two features (and known issues, if any).
 
 ## Acknowledgements
 
-Show appreciation to everyone who has helped in the project (including Client and Professors). In acknowledgment, recognize and thank everyone who was involved in this Applied Project. With acknowledgment, you can express gratitude to the people or institution whose contributions were valuable to the success of the project.
+First I'd like to thank our client, Smart Living Properties for giving us this opportunity and supporting us through it. Of course many thanks go to our professors, Adam and Adesh; their contributions and on going support was critical in the success of this project, but more importantly, for shaping us into the professional designers and developers we are today. This extends out to all our faculty over the past to years. Thank you for everything thing you taught us and every challenge you helped us overcome. In addition I would like to thank Algonquin College and especially everyone involved in the RE/ACTION showcase; it would not have be possible for this project to win 1st place without your talents and all the advice you shared with us. Thank you all very much.
