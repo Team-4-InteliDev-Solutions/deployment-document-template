@@ -252,7 +252,9 @@ Download the [Expo Go](https://expo.dev/client) app for [iOS](https://apps.apple
 #### Current Screens from Phase 1:
 
 <p float="center">
+<span>
 <img src="./images/screenshot-1.png" width="220">
+</span>
 <img src="./images/screenshot-2.png" width="220">
 <img src="./images/screenshot-3.png" width="220">
 </p>
