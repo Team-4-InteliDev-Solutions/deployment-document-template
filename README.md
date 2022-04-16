@@ -155,9 +155,13 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 ## Interactive Visual MockUp
 
-[Interactive Visual MockUp]()
+- Click link or scan QR with mobile device.
 
-- Download the file and open with XD.
+[Primary User (Tenant)](https://tinyurl.com/5n79wphj)
+![Primary User (Tenant)](./images/Primary%20User%20Visual%20Mockup.png)
+
+[Secondary User (Admin)](https://tinyurl.com/2p8dkvwm)
+![Secondary User (Admin)](./images/Secondary%20User%20Visual%20Mockup.png)
 
 <!-- Usability Testing Documentation -->
 
