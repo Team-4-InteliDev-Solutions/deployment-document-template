@@ -157,13 +157,18 @@ A mobile app for a property management company in Ottawa to engage in better and
 
 - Click link or scan QR with mobile device.
 
+<p>
 [Primary User (Tenant)](https://tinyurl.com/5n79wphj)
 
 ![Primary User (Tenant)](./images/Primary%20User%20Visual%20Mockup.png)
 
+</p>
+<p>
 [Secondary User (Admin)](https://tinyurl.com/2p8dkvwm)
 
 ![Secondary User (Admin)](./images/Secondary%20User%20Visual%20Mockup.png)
+
+</p>
 
 <!-- Usability Testing Documentation -->
 
